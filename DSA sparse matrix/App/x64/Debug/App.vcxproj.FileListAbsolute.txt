@@ -1,0 +1,2 @@
+C:\Users\maria\Documents\OOP\App\x64\Debug\App.exe
+C:\Users\maria\Documents\structuri de date\App\x64\Debug\App.exe
